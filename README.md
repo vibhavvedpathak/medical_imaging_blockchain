@@ -1,4 +1,4 @@
-# Medical Imaging Classification with Blockchain Integration
+# Blockchain-Integrated Medical Imaging - Secure Diagnostics using Deep Learning
 
 ## Overview
 
